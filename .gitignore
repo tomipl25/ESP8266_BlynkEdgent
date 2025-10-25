@@ -1,0 +1,11 @@
+# Arduino
+*.bin
+*.elf
+*.hex
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Blynk secrets
+secrets.h
